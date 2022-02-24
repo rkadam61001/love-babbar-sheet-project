@@ -32,3 +32,13 @@
     outline: none;
     cursor: pointer;
 }
+.login > .button:hover {
+    background-color:rgb(31, 107, 194);
+       }
+.login > .button:active {
+    background-color: rgb(27, 113, 211);
+    box-shadow: 0 5px rgb(185, 185, 221);
+    transform: translateY(3px);
+   
+  }
+  
